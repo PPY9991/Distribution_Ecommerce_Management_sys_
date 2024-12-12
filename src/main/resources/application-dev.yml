@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/order_db?useSSL=false
+    username: root
+    password: root
+  redis:
+    host: localhost
+    port: 6379
+    
+alipay:
+  gateway-url: https://openapi.alipaydev.com/gateway.do
+  app-id: your-app-id
+  merchant-private-key: your-private-key
+  alipay-public-key: alipay-public-key 
