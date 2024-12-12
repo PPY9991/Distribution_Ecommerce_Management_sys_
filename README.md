@@ -50,7 +50,6 @@
 - ELK Stack
 - Prometheus + Grafana
 
-## 快速开始
 
 ### 环境要求
 - JDK 11+
@@ -58,7 +57,3 @@
 - MySQL 5.7+
 - Redis 6.x
 - Docker & Docker Compose
-
-### 本地开发
-
-1. 克隆项目
